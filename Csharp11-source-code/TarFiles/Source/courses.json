@@ -1,0 +1,12 @@
+[
+    {
+        "CourseId": "101",
+        "CourseName": "Computer Science",
+        "CourseDuration": "4"
+    },
+    {
+        "CourseId": "102",
+        "CourseName": "Mechanical",
+        "CourseDuration": "4"
+    }
+]
