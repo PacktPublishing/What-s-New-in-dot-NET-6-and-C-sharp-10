@@ -1,24 +1,25 @@
-Recommended: Development Environment
-I’ve used the following tools and extensions while creating this course. I recommend you have a similar setup for more accessible following with the lessons.
+Recommended: Development Environment 
 
+During the development of this course, I used different tools and add-ons. I recommend using a similar setup to ensure the lessons are easy to understand. 
 
-OS:
-•	Windows 10 64bit
-•	macOS Monterey (you may use just Windows OS as well)
+ 
+OS: 
+- Windows 10 64bit 
+- macOS Monterey (you may use just Windows OS as well) 
 
+IDE Used For This Course: 
+- Visual Studio Code (in macOS) 
+- Visual Studio 2022 (in Windows) 
 
+.NET Versions Used: 
+- 7.0 
+- 6.0 
 
-IDE Used For This Course:
-•	Visual Studio Code (in macOS)
-•	Visual Studio 2022 (in Windows)
+Visual Studio Code Extensions Used: 
+- C#, by Microsoft. 
+- C# Extensions, by JosKreativ 
+- NuGet Package Manager, by jmrog. 
 
+ 
 
-.NET Versions Used:
-•	7.0
-•	6.0
-
-Visual Studio Code Extensions Used:
-•	C#, by Microsoft.
-•	C# Extensions, by JosKreativ
-•	NuGet Package Manager, by jmrog.
-
+ 
